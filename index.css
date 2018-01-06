@@ -9,3 +9,7 @@ body { font-family: helvetica;
 .section, .background { text-align: center;
 
 }
+
+a, .footer, h1, .nav, .background { color: white;
+
+}
