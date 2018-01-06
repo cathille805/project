@@ -17,3 +17,7 @@ a, .footer, h1, .nav, .background { color: white;
 h1, h2, h3 { font-weight: bold;
 
 }
+
+h1 { font-size: 70px;
+
+}
